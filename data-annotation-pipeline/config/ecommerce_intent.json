@@ -1,0 +1,35 @@
+{
+  "_comment": "Custom rule config for e-commerce product review intent classification.",
+  "_author": "Qowiyu Yusrizal  |  github.com/Exynos93",
+  "_usage": "python annotator.py --input reviews.csv --task custom --config config/ecommerce_intent.json",
+  "_format": "Each key is a label. Each value is a list of regex patterns (case-insensitive).",
+
+  "Product Inquiry": [
+    "\\b(what|does|is|are|can|will|how big|how much|dimensions|compatible|suitable)\\b",
+    "\\b(specifications|specs|features|material|colour|color|size|weight|warranty)\\b",
+    "\\?$"
+  ],
+
+  "Purchase Intent": [
+    "\\b(buy|order|purchase|checkout|payment|paying|want to get)\\b",
+    "\\b(price|cost|how much|discount|promo|coupon|deal|offer|sale)\\b",
+    "\\b(stock|available|in stock|when will|restock|back in stock)\\b"
+  ],
+
+  "Post-Purchase Review": [
+    "\\b(received|arrived|delivered|just got|unboxed|opened|using|been using|after)\\b",
+    "\\b(review|rating|stars|feedback|verdict|thoughts|opinion|experience)\\b",
+    "\\b(recommend|worth|value for money|good buy|bad buy|regret)\\b"
+  ],
+
+  "Complaint or Return": [
+    "\\b(broken|defective|damaged|wrong|missing|incomplete|not working)\\b",
+    "\\b(refund|return|replace|exchange|complaint|issue|problem|dispute)\\b",
+    "\\b(contact support|customer service|where is my order|tracking)\\b"
+  ],
+
+  "General Comment": [
+    "\\b(hi|hello|thanks|thank you|great|nice|ok|okay|fine|just|random)\\b",
+    "\\b(by the way|btw|also|note|reminder|update|just saying)\\b"
+  ]
+}

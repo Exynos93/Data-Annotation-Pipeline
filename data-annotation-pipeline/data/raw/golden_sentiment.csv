@@ -1,0 +1,11 @@
+source_id,text,final_label
+g001,This product exceeded my expectations completely. Love it!,Positive
+g002,Worst purchase of my life. Totally broken on arrival.,Negative
+g003,It is fine. Neither great nor terrible.,Neutral
+g004,"Amazing quality, amazing service, amazing experience!",Positive
+g005,I want a refund. This is not what was described.,Negative
+g006,Average product. Does what it says.,Neutral
+g007,Absolutely fantastic! I recommend this to everyone!,Positive
+g008,"Delayed shipping, poor packaging, bad product.",Negative
+g009,"Not bad, not great. About what I expected.",Neutral
+g010,Five stars! Perfect in every way. Will buy again!,Positive

@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-02-24T16:06:42.226748+00:00",
+  "pipeline_version": "1.0.0",
+  "total_records": 20,
+  "task": "sentiment",
+  "label_distribution": {
+    "Positive": 10,
+    "Negative": 8,
+    "Neutral": 2
+  },
+  "auto_label_distribution": {
+    "Positive": 10,
+    "Negative": 8,
+    "Neutral": 2
+  },
+  "confidence_stats": {
+    "mean": 0.2494,
+    "median": 0.2679,
+    "min": 0.125,
+    "max": 0.4286,
+    "pct_zero": 0.0
+  },
+  "human_review": {
+    "reviewed_count": 0,
+    "override_count": 0,
+    "override_rate_pct": 0
+  },
+  "quality_flags": {
+    "low_confidence_count": 8,
+    "zero_signal_count": 0,
+    "needs_human_review": 8
+  }
+}

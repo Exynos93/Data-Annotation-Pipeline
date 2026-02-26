@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-02-24T16:06:45.744927+00:00",
+  "pipeline_version": "1.0.0",
+  "total_records": 15,
+  "task": "intent",
+  "label_distribution": {
+    "Informational": 5,
+    "Transactional": 5,
+    "Navigational": 3,
+    "Conversational": 2
+  },
+  "auto_label_distribution": {
+    "Informational": 5,
+    "Transactional": 5,
+    "Navigational": 3,
+    "Conversational": 2
+  },
+  "confidence_stats": {
+    "mean": 0.5111,
+    "median": 0.3333,
+    "min": 0.3333,
+    "max": 1.0,
+    "pct_zero": 0.0
+  },
+  "human_review": {
+    "reviewed_count": 0,
+    "override_count": 0,
+    "override_rate_pct": 0
+  },
+  "quality_flags": {
+    "low_confidence_count": 0,
+    "zero_signal_count": 0,
+    "needs_human_review": 0
+  }
+}

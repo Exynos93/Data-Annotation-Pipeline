@@ -1,0 +1,16 @@
+record_id,source_id,text,task,auto_label,auto_confidence,final_label,annotator,is_human_reviewed,human_override,annotation_time_sec,created_at,metadata,signal_Informational,signal_Transactional,signal_Navigational,signal_Conversational
+a20f39d9-9fae-4cea-8c2e-00d6aed03dba,intent_0001,What is the capital city of Brazil?,intent,Informational,0.3333,Informational,auto,False,False,0.0,2026-02-24T16:06:45.739614+00:00,{},1,0,0,0
+057c6801-8732-4023-99c9-0da10d4362e6,intent_0002,Buy cheap laptops online free shipping,intent,Transactional,0.6667,Transactional,auto,False,False,0.0,2026-02-24T16:06:45.739759+00:00,{},0,2,0,0
+b8f322d4-c675-4796-b5ed-726b3e522054,intent_0003,Log in to my account dashboard,intent,Navigational,0.3333,Navigational,auto,False,False,0.0,2026-02-24T16:06:45.739867+00:00,{},0,0,1,0
+cdee0352-fb35-4014-b234-741f328d756f,intent_0004,Hey! Can you recommend a good restaurant near me?,intent,Conversational,0.6667,Conversational,auto,False,False,0.0,2026-02-24T16:06:45.740000+00:00,{},0,0,0,2
+66e4a09e-4598-40d0-ae86-6c0fdef86ea8,intent_0005,How does machine learning work?,intent,Informational,0.3333,Informational,auto,False,False,0.0,2026-02-24T16:06:45.740116+00:00,{},1,0,0,0
+7013640c-6a7d-4d7e-a49a-a4e8db4191c6,intent_0006,Order iPhone 15 Pro Max with discount code,intent,Transactional,0.6667,Transactional,auto,False,False,0.0,2026-02-24T16:06:45.740211+00:00,{},0,2,0,0
+3d851c84-fdfa-4db7-bfc1-1a67f69ed6a1,intent_0007,Sign up for the free trial today,intent,Transactional,0.6667,Transactional,auto,False,False,0.0,2026-02-24T16:06:45.740302+00:00,{},0,2,0,0
+c21d5628-c071-42ef-aee0-f9588b524f7d,intent_0008,Where is the official help center website?,intent,Navigational,1.0,Navigational,auto,False,False,0.0,2026-02-24T16:06:45.740394+00:00,{},1,0,3,0
+3f9278c7-f229-45ab-ba41-e22e836bd11b,intent_0009,Why is the sky blue? Explain the science.,intent,Informational,0.3333,Informational,auto,False,False,0.0,2026-02-24T16:06:45.740488+00:00,{},1,0,0,0
+3a12a546-28b4-49b4-8754-131ea19bc009,intent_0010,Download the mobile app for free,intent,Transactional,0.3333,Transactional,auto,False,False,0.0,2026-02-24T16:06:45.740802+00:00,{},0,1,1,0
+bf43fd19-849e-44ee-a85b-a5e9b2c017db,intent_0011,"Hello, how are you today?",intent,Conversational,0.6667,Conversational,auto,False,False,0.0,2026-02-24T16:06:45.741128+00:00,{},1,0,0,2
+c7d82e32-22b4-4988-b827-86318c33894c,intent_0012,Best Python tutorial for beginners 2024,intent,Informational,0.3333,Informational,auto,False,False,0.0,2026-02-24T16:06:45.741267+00:00,{},1,0,0,0
+38badf8a-8d9b-46f6-97cb-9cf3f23330e0,intent_0013,Reset my password account settings,intent,Navigational,0.3333,Navigational,auto,False,False,0.0,2026-02-24T16:06:45.741376+00:00,{},0,0,1,0
+0bcc5f23-b3ae-4f54-b606-7da3cdd3d423,intent_0014,Limited offer: get 50% off all products now,intent,Transactional,0.6667,Transactional,auto,False,False,0.0,2026-02-24T16:06:45.741470+00:00,{},0,2,0,0
+9ae3961e-3113-48ec-8bf4-dfc609324793,intent_0015,What are the causes of climate change?,intent,Informational,0.3333,Informational,auto,False,False,0.0,2026-02-24T16:06:45.741577+00:00,{},1,0,0,0

@@ -1,0 +1,30 @@
+[2026-02-24 16:06:45] INFO      Loaded 2 records from 'tmpxxrbmdrj.csv' (text='text', id='id')
+[2026-02-24 16:06:45] INFO      Loaded 2 records from 'tmp6gbwn629.json' (text='content', id='id')
+[2026-02-24 16:06:45] INFO      Loaded 20 records from 'tmp5qurlc17.csv' (text='text', id='_id')
+[2026-02-24 16:06:45] INFO      Loaded 2 records from 'tmp_i_34q8t.csv' (text='text', id='_id')
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_sentiment.csv  (20 rows)
+[2026-02-24 16:06:45] INFO      Loaded 20 records from 'sample_sentiment.csv' (text='text', id='id')
+[2026-02-24 16:06:45] INFO      Pipeline initialised  task=sentiment  mode=auto  export=csv  threshold=0.15
+[2026-02-24 16:06:45] INFO      Starting annotation: 20 records
+[2026-02-24 16:06:45] INFO      Saved CSV  → /home/claude/data-annotation-pipeline/data/annotated/test_auto_sentiment_20260224_160645.csv
+[2026-02-24 16:06:45] INFO      Saved JSONL → /home/claude/data-annotation-pipeline/data/annotated/test_auto_sentiment_20260224_160645.jsonl
+[2026-02-24 16:06:45] INFO      Saved summary → /home/claude/data-annotation-pipeline/data/exports/test_auto_sentiment_20260224_160645_summary.json
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_intent.csv  (15 rows)
+[2026-02-24 16:06:45] INFO      Loaded 15 records from 'sample_intent.csv' (text='text', id='id')
+[2026-02-24 16:06:45] INFO      Pipeline initialised  task=intent  mode=batch  export=csv  threshold=0.15
+[2026-02-24 16:06:45] INFO      Starting annotation: 15 records
+[2026-02-24 16:06:45] INFO      Saved CSV  → /home/claude/data-annotation-pipeline/data/annotated/test_batch_intent_20260224_160645.csv
+[2026-02-24 16:06:45] INFO      Saved JSONL → /home/claude/data-annotation-pipeline/data/annotated/test_batch_intent_20260224_160645.jsonl
+[2026-02-24 16:06:45] INFO      Saved summary → /home/claude/data-annotation-pipeline/data/exports/test_batch_intent_20260224_160645_summary.json
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_sentiment.csv  (10 rows)
+[2026-02-24 16:06:45] INFO      Loaded 10 records from 'sample_sentiment.csv' (text='text', id='id')
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_content_category.csv  (10 rows)
+[2026-02-24 16:06:45] INFO      Loaded 10 records from 'sample_content_category.csv' (text='text', id='id')
+[2026-02-24 16:06:45] INFO      Pipeline initialised  task=content_category  mode=auto  export=jsonl  threshold=0.15
+[2026-02-24 16:06:45] INFO      Starting annotation: 10 records
+[2026-02-24 16:06:45] INFO      Saved CSV  → /home/claude/data-annotation-pipeline/data/annotated/test_jsonl_content_category_20260224_160645.csv
+[2026-02-24 16:06:45] INFO      Saved JSONL → /home/claude/data-annotation-pipeline/data/annotated/test_jsonl_content_category_20260224_160645.jsonl
+[2026-02-24 16:06:45] INFO      Saved summary → /home/claude/data-annotation-pipeline/data/exports/test_jsonl_content_category_20260224_160645_summary.json
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_sentiment.csv  (15 rows)
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_intent.csv  (15 rows)
+[2026-02-24 16:06:45] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_content_category.csv  (15 rows)

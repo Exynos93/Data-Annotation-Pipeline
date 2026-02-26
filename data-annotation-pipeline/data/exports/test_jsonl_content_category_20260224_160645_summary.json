@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-02-24T16:06:45.758510+00:00",
+  "pipeline_version": "1.0.0",
+  "total_records": 10,
+  "task": "content_category",
+  "label_distribution": {
+    "Spam": 3,
+    "Safe": 7
+  },
+  "auto_label_distribution": {
+    "Spam": 3,
+    "Safe": 7
+  },
+  "confidence_stats": {
+    "mean": 0.13,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 0.5,
+    "pct_zero": 60.0
+  },
+  "human_review": {
+    "reviewed_count": 0,
+    "override_count": 0,
+    "override_rate_pct": 0
+  },
+  "quality_flags": {
+    "low_confidence_count": 0,
+    "zero_signal_count": 6,
+    "needs_human_review": 6
+  }
+}

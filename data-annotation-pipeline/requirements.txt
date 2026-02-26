@@ -1,0 +1,10 @@
+# Data Annotation Pipeline
+# Author: Qowiyu Yusrizal  |  github.com/Exynos93
+# Install: pip install -r requirements.txt
+
+# Core (required)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: for running tests with pytest
+pytest>=7.0.0

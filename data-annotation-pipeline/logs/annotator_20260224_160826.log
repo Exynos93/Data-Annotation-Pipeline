@@ -1,0 +1,7 @@
+[2026-02-24 16:08:26] INFO      Generated sample data → /home/claude/data-annotation-pipeline/data/raw/sample_sentiment.csv  (50 rows)
+[2026-02-24 16:08:26] INFO      Loaded 50 records from 'sample_sentiment.csv' (text='text', id='id')
+[2026-02-24 16:08:26] INFO      Pipeline initialised  task=sentiment  mode=auto  export=csv  threshold=0.15
+[2026-02-24 16:08:26] INFO      Starting annotation: 50 records
+[2026-02-24 16:08:26] INFO      Saved CSV  → /home/claude/data-annotation-pipeline/data/annotated/sample_sentiment_sentiment_20260224_160826.csv
+[2026-02-24 16:08:26] INFO      Saved JSONL → /home/claude/data-annotation-pipeline/data/annotated/sample_sentiment_sentiment_20260224_160826.jsonl
+[2026-02-24 16:08:26] INFO      Saved summary → /home/claude/data-annotation-pipeline/data/exports/sample_sentiment_sentiment_20260224_160826_summary.json

@@ -1,0 +1,11 @@
+source_id,text,final_label
+g001,What is machine learning?,Informational
+g002,Buy discounted laptop online free delivery,Transactional
+g003,Login to my account,Navigational
+g004,"Hey, any restaurant recommendations near me?",Conversational
+g005,Explain how neural networks work step by step,Informational
+g006,Subscribe to premium plan with 20% discount,Transactional
+g007,Go to the official Apple support page,Navigational
+g008,Hi there! I was wondering what you think about AI?,Conversational
+g009,History of the Roman Empire,Informational
+g010,Download free ebook now,Transactional
